@@ -1,3 +1,8 @@
-import streamlit as st
-import joblib
-import pandas as pd
+streamlit
+joblib
+pandas
+scikit-learn
+flask
+numpy
+matplotlib.pyplot
+seaborn
